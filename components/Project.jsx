@@ -14,16 +14,16 @@ const Project = () => {
         <h2 className="py-4">What I have Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItem
-            title="Property Finder"
+            title="APP"
             backgroundImg={propertyImg}
-            projectUrl="/property"
+            projectUrl="https://github.com/MoonFrontEndWorld/FoodOrderApplication/tree/gh-pages"
           />
-          <ProjectItem
+          {/* <ProjectItem
             title="Crypto App"
             backgroundImg={propertyImg}
             projectUrl="/property"
             technology="React JS"
-          />
+          /> */}
         </div>
       </div>
     </div>
