@@ -31,9 +31,12 @@ const Main = () => {
               </div>
             </a>
 
-            <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-115 ease-in duration-300">
-              <FaGithub />
-            </div>
+            <a href="https://github.com/MoonFrontEndWorld">
+              <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-115 ease-in duration-300">
+                <FaGithub />
+              </div>
+            </a>
+
             <a href="mailto:liangyuemoon666@gmail.com">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-115 ease-in duration-300">
                 <AiOutlineMail />
