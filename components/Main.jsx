@@ -15,7 +15,7 @@ const Main = () => {
           </h1>
           <h1 className="py-4 text-gray-700">
             A <span className="text-yellow-500 uppercase">passionate</span>{' '}
-            Front-End developer
+            Software Developer
           </h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
             As a front-end developer, I have a deep understanding of web
